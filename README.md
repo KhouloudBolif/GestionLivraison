@@ -1,2 +1,2 @@
 # GestionLivraison
-ce Projet est realider avec Java ave IntelliJ IDEA +JDBC (mysql)
+ce Projet est realiser avec Java ave IntelliJ IDEA +JDBC (mysql)
